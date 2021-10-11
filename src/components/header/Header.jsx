@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import Resume from "./sean_coleman_resume.pdf"
+import Resume from "./resume.pdf"
 function Header() {
     return (
         <div className="header">

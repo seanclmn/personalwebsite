@@ -23,7 +23,6 @@ function Towers() {
                                     </button>
                                 </a>
 
-
                                 <a href="https://github.com/seanclmn/hanoi">
                                     <button>
                                         Github

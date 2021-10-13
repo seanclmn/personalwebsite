@@ -12,9 +12,13 @@ function Main() {
             <div className="intro">
                 <h2>Hi, I'm</h2>
                 <h1>Sean Coleman.</h1>
-                <h3>I am a creative front-end web developer committed to good user experience and intuitive design.</h3>
+                <h3>I am a creative software engineer committed to good user experience and intuitive design.</h3>
                 <br/>
                 <h3>Scroll down to see my projects.</h3>
+            </div>
+
+            <div id='footer_container'>
+                <Footer/>
             </div>
 
             <div id='museum_container'>
@@ -23,11 +27,6 @@ function Main() {
 
             <div id='tower_container'>
                 <Towers/>
-            </div>
-
-
-            <div id='footer_container'>
-                <Footer/>
             </div>
 
             <div>

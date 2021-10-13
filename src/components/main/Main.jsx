@@ -34,7 +34,6 @@ function Main() {
             </div>
 
             <div id="contact">
-                
                 <Contact/>
             </div>
         </div>

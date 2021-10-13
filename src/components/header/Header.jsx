@@ -8,7 +8,7 @@ function Header() {
                 <img src={process.env.PUBLIC_URL + '/logo.png'} alt="logo" className="logo"/>
             </div>
             <nav className="nav">
-                <a href="#museum_container" >
+                <a href="#footer_container" >
                     <ul className="link" >Projects</ul>
                 </a>
 

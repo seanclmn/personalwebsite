@@ -5,7 +5,7 @@ function Header() {
     return (
         <div className="header">
             <div >
-                <img src={process.env.PUBLIC_URL + '/logo.png'} alt="logo" className="logo"/>
+                <a href='#home'><img src={process.env.PUBLIC_URL + '/logo.png'} alt="logo" className="logo"/></a>
             </div>
             <nav className="nav">
                 <a href="#footer_container" >

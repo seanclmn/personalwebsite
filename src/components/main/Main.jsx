@@ -8,7 +8,7 @@ import Experience from './experience/Experience'
 import Contact from './contact/Contact'
 function Main() {
     return (
-        <div className="container">
+        <div className="container" id="home">
             <div className="intro">
                 <h2>Hi, I'm</h2>
                 <h1>Sean Coleman.</h1>

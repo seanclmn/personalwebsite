@@ -1,5 +1,6 @@
 #experience{
-    height: 100vh;
+    height: 90vh;
+    padding-top: 10vh;
 
     display: flex;
     flex-direction: column;

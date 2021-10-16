@@ -31,9 +31,8 @@ function Contact() {
                     <p>
                         Email me and stay in touch!
                     </p>
-                    <a href="secolema@iu.edu"><img src= {process.env.PUBLIC_URL + '/gmail.png'} alt="linkedin" className="contact_img" /></a>
-
-                    <a href="secolema@iu.edu"><p className="contact_link">Email</p></a>
+                    <a href="mailto:seanclmn1@gmail.com"><img src= {process.env.PUBLIC_URL + '/gmail.png'} alt="email" className="contact_img" /></a>
+                    <a href="mailto:seanclmn1@gmail.com"><p className="contact_link">Email</p></a>
                 </div>
             </div>
 
@@ -45,13 +44,13 @@ function Contact() {
                 </div>
 
                 <div className="contact_block_small" id="github">
-                    <a href="https://github.com/seanclmn"><img src= {process.env.PUBLIC_URL + '/github.png'} alt="linkedin" className="contact_img" /></a>
+                    <a href="https://github.com/seanclmn"><img src= {process.env.PUBLIC_URL + '/github.png'} alt="github" className="contact_img" /></a>
                     <a href="https://github.com/seanclmn"><p className="contact_link">Github</p></a>
                 </div>
                 
                 <div className="contact_block_small" id="email">
-                    <a href="secolema@iu.edu"><img src= {process.env.PUBLIC_URL + '/gmail.png'} alt="linkedin" className="contact_img" /></a>
-                    <a href="secolema@iu.edu"><p className="contact_link">Email</p></a>
+                    <a href="mailto:seanclmn1@gmail.com"><img src= {process.env.PUBLIC_URL + '/gmail.png'} alt="email" className="contact_img" /></a>
+                    <a href="mailto:seanclmn1@gmail.com"><p className="contact_link">Email</p></a>
                 </div>
 
             </div>

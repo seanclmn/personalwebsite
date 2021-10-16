@@ -29,7 +29,7 @@ function Main() {
                 <Towers/>
             </div>
 
-            <div>
+            <div id="experience_container">
                 <Experience/>
             </div>
 

@@ -11,7 +11,7 @@ function Main() {
         <div className="container" id="home">
             <div className="intro">
                 <h2>Hi, I'm</h2>
-                <h1>Sean Coleman.</h1>
+                <h1>Sean Coleman (市川詩音).</h1>
                 <h3>I am a creative software engineer committed to good user experience and intuitive design.</h3>
                 <br/>
                 <h3>Scroll down to see my projects.</h3>

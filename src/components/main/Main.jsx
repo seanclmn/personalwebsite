@@ -17,15 +17,15 @@ function Main() {
                 <h3>Scroll down to see my projects.</h3>
             </div>
 
-            <div id='footer_container'>
+            <div id='footer_container' className="project">
                 <Footer/>
             </div>
 
-            <div id='museum_container'>
+            <div id='museum_container' className="project">
                 <Museum/>
             </div>
 
-            <div id='tower_container'>
+            <div id='tower_container' className="project">
                 <Towers/>
             </div>
 

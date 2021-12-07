@@ -4,7 +4,7 @@ import Resume from "./resume.pdf"
 function Header() {
     return (
         <div className="header">
-            <div >
+            <div className="logo-container">
                 <a href='#home'><img src={process.env.PUBLIC_URL + '/logo.png'} alt="logo" className="logo"/></a>
             </div>
             <nav className="nav">

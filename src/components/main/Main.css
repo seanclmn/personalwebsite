@@ -13,9 +13,9 @@
 }
 
 .projects-button{
-    display: block;
+    display: none;
     width: 30px;
-    margin-top: 150px;
+    margin-top: 250px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -27,7 +27,7 @@
 }
 
 .projects-button:active{
-    margin-top: 153px;
+    margin-top: 253px;
 }
 
 .intro{
@@ -52,23 +52,12 @@ h3{
     animation: FadeIn 5s;
 }
 
-/* @media only screen and (max-width: 700px) {
-    .container{
-        width: 95%;
-    }
 
-    h3{
-        width: 100%;
+ @media only screen and (min-width: 400px) {
+    .projects-button{
+        display: block;
     }
   }
-
-@media only screen and (max-width: 440px) {
-    h1{
-        line-height: 50px;
-    }
-  }
-
-
 
 @keyframes FadeIn {
     from{
@@ -78,6 +67,6 @@ h3{
     to{
         opacity: 1;
     }
-} */
+}
 
 

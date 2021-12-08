@@ -43,7 +43,8 @@ a{
 
 .link{
     padding: 0%;
-    width: 100%;
+    width: 80px;
+    font-size: 15px;
     height: 40px;
     border-radius: 1em;
 
@@ -86,6 +87,11 @@ a{
         margin-right: 30px;
         width: 450px;
         
+    }
+
+    .link{
+        width: 100px;
+
     }
   }
 

@@ -13,6 +13,8 @@ function Main() {
                 <h3>I am a creative software engineer committed to good user experience and intuitive design.</h3>
                 <br/>
                 <h3>Scroll down to see my projects.</h3>
+
+                <a href="#footer_container"><img className="projects-button" src={`${process.env.PUBLIC_URL + '/down.png'}`} /></a>
             </div>
 
             <div id='footer_container' className="project">

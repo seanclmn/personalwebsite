@@ -14,10 +14,11 @@
 
 .projects-button{
     display: none;
+    position: absolute;
     width: 30px;
-    margin-top: 250px;
-    margin-right: auto;
-    margin-left: auto;
+    left: 50%;
+    bottom: 50px;
+
 }
 
 .projects-button:hover{

@@ -22,7 +22,7 @@
 
 .projects-button:hover{
     animation: pulse infinite;
-    animation-duration: 1s;
+    animation-duration: 0.8s;
     width: 33px;
 }
 
